@@ -12,6 +12,10 @@ Features:-
 4. Responsive sidebar for chat list
 5. Create and Edit pages
 6. React router dom for routing
+
+
 Tech stack - React, Tailwind
+
 Icons - react-icons
+
 font - Poppins
