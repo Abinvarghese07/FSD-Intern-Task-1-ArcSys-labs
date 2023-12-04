@@ -4,6 +4,7 @@ Netlify link - https://abinsvarghese.netlify.app/
 Chat Interface application is done in ReactJS and Tailwind CSS.
 
 The application is responsive and works well with different screens.
+
 Features:-
 1. Responsive Navbar with a drop-down list
 2. Create new user page
