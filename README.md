@@ -1,5 +1,4 @@
-# FSD-Intern-Task-1-ArcSys-labs
-Full Stack Intern Task 1 - ArcSys Labs
+
 Netlify link - https://abinsvarghese.netlify.app/
 Chat Interface application is done in ReactJS and Tailwind CSS.
 
